@@ -31,7 +31,7 @@ export default function SearchBar({ data }) {
             </InputAdornment>
           ),
         }}
-        placeholder="search for song"
+        placeholder="search an album"
         name="search"
         fullWidth
         onChange={handleChange}
